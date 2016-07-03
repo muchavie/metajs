@@ -1,0 +1,28 @@
+{
+  "name": "metajs",
+  "version": "0.0.1",
+  "description": "Create a Salesforce Custom Object with fields and visible FLS.",
+  "main": "meta.js",
+  "scripts": {
+    "test": "node meta.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muchavie/metajs.git"
+  },
+  "keywords": [
+    "Salesforce",
+    "javascript",
+    "Metadata API",
+    "jsforce"
+  ],
+  "author": "Peter Ogilvie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muchavie/metajs/issues"
+  },
+  "homepage": "https://github.com/muchavie/metajs#readme",
+  "dependencies": {
+    "jsforce": "^1.6.5"
+  }
+}
